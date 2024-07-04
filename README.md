@@ -1,4 +1,4 @@
 # youtube-channel-automate
-Youtube Channel automate
+Youtube Channel automated
 
-Make my youtube channel automate throug using libray FFCreator
+Make my youtube channel automated through using libray FFCreator
